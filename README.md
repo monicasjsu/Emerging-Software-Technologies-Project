@@ -6,6 +6,7 @@ In this project we put our best effort to train Pix2PixGAN and CycleGAN models f
 
 Presentation (https://docs.google.com/presentation/d/1kKq7RYwMjsFhKzZYD3WSrkTUEyX7VZf5/edit#slide=id.p12)
 
+![](images/ui.jpeg "ui")
 
 ## Approach
 1. Image to Image Translation done for this project by using two approaches
@@ -40,6 +41,12 @@ Training:
  7. Tensorboard setup has been done to visualize the losses.
  8. Few experiments have also been done by hyperparameter tuning.
  
+![](images/d_loss1.jpeg "d_loss1")
+
+![](images/d_loss2.jpeg "d_loss2")
+
+![](images/g_loss.jpeg "g_loss")
+ 
 
 ## CycleGAN
 
@@ -59,20 +66,12 @@ Training:
 ## Deployement:
  1. The model has been deployed onto Amazon EC2.
  
-![](images/ec2.jpeg "EC2")
+ ![](images/ec2.jpeg "EC2")
+ 
  2. The best model of pix2pix and cycleGAN's are saved onto S3.
+ 
+ ![](images/amazon s3.jpeg "s3")
+
  3. Using git and Docker Hub for deployement pipeline.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ![](images/dockerhub.jpeg "Docker")
