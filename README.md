@@ -58,6 +58,8 @@ Training:
 
 ## Deployement:
  1. The model has been deployed onto Amazon EC2.
+ 
+![](images/ec2.jpeg "EC2")
  2. The best model of pix2pix and cycleGAN's are saved onto S3.
  3. Using git and Docker Hub for deployement pipeline.
  
