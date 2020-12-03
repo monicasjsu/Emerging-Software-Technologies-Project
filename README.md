@@ -39,11 +39,12 @@ Training:
  7. Tensorboard setup has been done to visualize the losses.
  8. Few experiments have also been done by hyperparameter tuning.
  
-![](images/d_loss1.jpeg "d_loss1")
+![](images/d_loss1.png "d_loss1")
 
-![](images/d_loss2.jpeg "d_loss2")
+![](images/d_loss2.png "d_loss2")
 
-![](images/g_loss.jpeg "g_loss")
+![](images/g_loss.png "g_loss")
+
 ## CycleGAN
  1. Cycle Generative Adversarial Networks is similar to pix2pix except that it uses two discriminators and two generator models.
  2. The model architecture is comprised of two generator models: one generator (Generator-A) for generating images for the first domain (Domain-A) and the second generator (Generator-B) for generating images for the second domain (Domain-B).
