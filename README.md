@@ -4,7 +4,7 @@
 
 In this project we put our best effort to train Pix2PixGAN and CycleGAN models for Image to Image Translation on Maps Dataset for converting Google map images to satellite images.
 
-## Presentation (https://docs.google.com/presentation/d/1kKq7RYwMjsFhKzZYD3WSrkTUEyX7VZf5/edit#slide=id.p12)
+Presentation (https://docs.google.com/presentation/d/1kKq7RYwMjsFhKzZYD3WSrkTUEyX7VZf5/edit#slide=id.p12)
 
 
 ## Approach
