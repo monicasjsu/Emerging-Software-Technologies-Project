@@ -44,7 +44,6 @@ Training:
 ![](images/d_loss2.jpeg "d_loss2")
 
 ![](images/g_loss.jpeg "g_loss")
- 
 ## CycleGAN
  1. Cycle Generative Adversarial Networks is similar to pix2pix except that it uses two discriminators and two generator models.
  2. The model architecture is comprised of two generator models: one generator (Generator-A) for generating images for the first domain (Domain-A) and the second generator (Generator-B) for generating images for the second domain (Domain-B).
@@ -64,7 +63,7 @@ Training:
  ![](images/ec2.jpeg "EC2") 
  2. The best model of pix2pix and cycleGAN's are saved onto S3.
  
- ![](images/amazon s3.jpeg "s3")
+ ![](images/s3.jpeg "s3")
 
  3. Using git and Docker Hub for deployement pipeline.
  
