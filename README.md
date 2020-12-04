@@ -12,7 +12,6 @@ Presentation (https://docs.google.com/presentation/d/1kKq7RYwMjsFhKzZYD3WSrkTUEy
 1. Image to Image Translation done for this project by using two approaches
     1. Using Pix2PixGAN 
     2. Using CycleGAN
-3. Character recognition using CNN and YOLOV3 from above step.
 
 ## Dataset
 1. We have collected images of maps which contains satellite images of New York region 
